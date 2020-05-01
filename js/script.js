@@ -1,4 +1,4 @@
-
+//add autovolume
 function loadAudio(arr, vol) {
  let audio = document.createElement('audio');
   for (let i = 0, len = arr.length; i < len; i+= 1) {
